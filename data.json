@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Deer",
+    "description": "Deer (harin) ruminant mammal of the family Cervidae, order Artiodactyla. All members of the family have more or less similar appearance and nature. The male has typically a pair of bony outgrowths of the skull, that is to say, the antlers that are shed and regrown each year.",
+    "price": 250,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/wild-photograph/main/wild-photograph/deer.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Flamingos",
+    "description": "Flamingo, (order Phoenicopteriformes), any of six species of tall, pink wading birds with thick downturned bills. Flamingos have slender legs, long, graceful necks, large wings, and short tails. They range from about 90 to 150 cm (3 to 5 feet) tall.",
+    "price": 300,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/wild-photograph/main/wild-photograph/flamingos.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Frog",
+    "description": "In general, frogs have protruding eyes, no tail, and strong, webbed hind feet that are adapted for leaping and swimming. They also possess smooth, moist skins. Many are predominantly aquatic, but some live on land, in burrows, or in trees. A number depart from the typical form.",
+    "price": 200,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/wild-photograph/main/wild-photograph/frog.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Lion",
+    "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black. The length and color of a lion's mane is likely determined by age, genetics and hormones.",
+    "price": 450,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/wild-photograph/main/wild-photograph/lion.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Love Birds",
+    "description": "Lovebirds are 13 to 17 cm (5 to 7 in) in length, up to 24 cm in wingspan with 9 cm for a single wing and 40 to 60 g (11⁄2 to 2 oz) in weight. They are among the smallest parrots, characterised by a stocky build, a short blunt tail, and a relatively large, sharp beak.",
+    "price": 350,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/wild-photograph/main/wild-photograph/lovebirds.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Turtle",
+    "description": "Turtles are reptiles with hard shells that protect them from predators. They are among the oldest and most primitive groups of reptiles, having evolved millions of years ago. Turtles live all over the world in almost every type of climate",
+    "price": 400,
+    "img": "https://raw.githubusercontent.com/amir-hossain113/wild-photograph/main/wild-photograph/turtle.jpg"
+  }
+]
